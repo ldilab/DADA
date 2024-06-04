@@ -1,4 +1,4 @@
-# [Official, ACL2024-Findings] DADA: Distribution Aware Domain Adaptation
+# [Official, ACL2024-Findings] <br/>DADA: Distribution Aware Domain Adaptation
 
 ## 🗂 Project Structure
 The directory structure of new project looks like this:
