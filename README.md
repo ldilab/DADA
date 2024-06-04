@@ -49,7 +49,7 @@ The directory structure of new project looks like this:
 ```bash
 # clone project
 git clone
-cd dada
+cd DADA
 
 # [OPTIONAL] create conda environment
 python3 -m venv dada_env
