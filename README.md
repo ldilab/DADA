@@ -46,7 +46,6 @@ The directory structure of new project looks like this:
 
 
 ## 🚀  Quickstart
-
 ```bash
 # clone project
 git clone
@@ -70,6 +69,7 @@ python eval.py
 
 ### 🏭 Reproduce
 ~~~bash
+# These commands are verified on NVIDIA 3090 (CUDA: 12.0).
 # Parameters
 CUDA_GPUS = 0,1,2,3
 DATASET = scifact
